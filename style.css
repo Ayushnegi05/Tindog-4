@@ -1,4 +1,4 @@
-.gradient-background {
+#title {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
@@ -15,6 +15,13 @@
     background-position: 0% 50%;
   }
 }
+.dog-image{
+  border-radius: 50%;
+}
+#footer{
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);  
+}
+
 
 .icon-square {
   width: 3rem;
